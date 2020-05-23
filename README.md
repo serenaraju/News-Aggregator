@@ -4,3 +4,5 @@ Technical News Aggregator.
 Framework: Django and Bootstrap
 Languages: Python and HTML
 Web scrapes: https://www.freecodecamp.org/news/ and https://www.entrepreneur.com/topic/coding
+
+![HomePage](https://j.gifs.com/0YjM95.gif)
